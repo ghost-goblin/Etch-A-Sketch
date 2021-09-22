@@ -2,6 +2,15 @@ html {
     font-family: sans-serif;
     text-align: center;
   }
+
+  body {
+    background-color: rgb(58, 58, 58);
+
+  }
+
+  h1 {
+    color: white;
+  }
   
   #container {
     margin-top: 25px;
@@ -13,16 +22,30 @@ html {
     border-radius: 5px;
     height: 575px;
     width: 575px;
+    margin-bottom: 30px;
   }
   
   .content {
     background-color: white;
     border: 1px solid black;
+    
   
   }
   
   .box {
-    background-color: gray;
+    background-color: #4CAF50;
     border: 1px solid black;
+  }
+
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
   }
   
