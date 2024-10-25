@@ -2,4 +2,4 @@
 
 ## ✏️ Etch-A-Sketch made with HTML, CSS &amp; JavaScript
 
-Play on 👉 [codepen](https://codepen.io/ghost-goblin/pen/zYrQzYB)
+Play on 👉 [codepen](https://codepen.io/puybr/pen/zYrQzYB)
